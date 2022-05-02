@@ -71,12 +71,12 @@ banner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[92m  _   _            \e[0m\e[93m _____  _     _     _                \e[0m\n"
-printf "\e[0m\e[92m | \ | |           \e[0m\e[93m|  __ \| |   (_)   | |               \e[0m\n"
-printf "\e[0m\e[92m |  \| | _____  __ \e[0m\e[93m| |__) | |__  _ ___| |__   ___ _ __  \e[0m\n"
-printf "\e[0m\e[92m | .   |/ _ \ \/ / \e[0m\e[93m|  ___/|  _ \| / __|  _ \ / _ \  __| \e[0m\n"
-printf "\e[0m\e[92m | |\  |  __/>  <  \e[0m\e[93m| |    | | | | \__ \ | | |  __/ |    \e[0m\n"
-printf "\e[0m\e[92m |_| \_|\___/_/\_\ \e[0m\e[93m|_|    |_| |_|_|___/_| |_|\___|_| \e[0m\e[1;44m[V 1.0]\e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m _____  _     _     _                \e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m|  __ \| |   (_)   | |               \e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m| |__) | |__  _ ___| |__   ___ _ __  \e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m|  ___/|  _ \| / __|  _ \ / _ \  __| \e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m| |    | | | | \__ \ | | |  __/ |    \e[0m\n"
+printf "\e[0m\e[92m  \e[0m\e[93m|_|    |_| |_|_|___/_| |_|\___|_| \e[0m\e[1;44m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
 printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : HTR-TECH ]\e[0m\n"
 printf "\e[0m\n"
@@ -87,13 +87,13 @@ smallbanner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[93m _  _ ___ _   _    ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
-printf "\e[0m\e[93m |\ | |__  \_/    |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
-printf "\e[0m\e[93m | \| |__ _/ \_   |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf "\e[0m\e[93m    ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
+printf "\e[0m\e[93m   |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
+printf "\e[0m\e[93m   |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/htr-tech \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/eviljerry \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 }
@@ -332,15 +332,15 @@ about() {
 clear
 sleep 2
 printf "\e[0m\n"
-printf "\e[0m\e[93m _  _ ___ _   _    ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
-printf "\e[0m\e[93m |\ | |__  \_/    |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
-printf "\e[0m\e[93m | \| |__ _/ \_   |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf "\e[0m\e[93m   ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
+printf "\e[0m\e[93m  |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
+printf "\e[0m\e[93m  |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m TAHMID RAYAT \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
+printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m UMED_XD \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/htr-tech\e[0m\n"
+printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/evjerry\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Instagram \e[0m\e[91m  : \e[0m\e[96mhttps://instagr.am/tahmid.rayat\e[0m\n"
 printf "\e[0m\n"
